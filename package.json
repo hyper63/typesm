@@ -1,0 +1,10 @@
+{
+  "name": "@hyper63/typesm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "tape": "^5.1.1"
+  }
+}
