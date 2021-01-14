@@ -28,4 +28,10 @@ Id.of(1)
 
 ```
 
+## ADTS
+
+* Id
+* Either
+* Task
+
 
